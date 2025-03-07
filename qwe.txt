@@ -1,1 +1,1 @@
-create table devaki;
+create table reddy;
